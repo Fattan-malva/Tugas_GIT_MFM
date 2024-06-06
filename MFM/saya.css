@@ -127,8 +127,8 @@ header nav a:hover::after {
     background-image: url('tiktok.jpg');
   }
   
-  .icon-link[href*="https://wa.me/6285536724645"] {
-    background-image: url("WhatsAppPNG.jpg");
+  .icon-link[href*="https://github.com/Fattan-malva/Tugas_GIT_MFM.git"] {
+    background-image: url("github-logo.png");
   }
   
   .icon-link[href*="https://www.instagram.com/kmllxvvn/"] {
