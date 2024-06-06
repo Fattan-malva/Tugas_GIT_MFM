@@ -63,9 +63,11 @@ header nav a:hover::after {
 /* MENGATUR ABOUT ME */
 
 .section {
-  background-color: hwb(207 27% 65% / 0.597);
-  padding: 20px;
-  margin: 20px;
+  background-color: hwb(210 35% 62% / 0.156);
+  padding: 40px;
+  margin: 40px;
+  margin-left: 200px;
+  margin-right: 200px;
   border-radius: 10px;
 }
 
