@@ -125,22 +125,22 @@ header nav a:hover::after {
 
 .icon-link[href*="https://www.tiktok.com/@bangepp_?is_from_webapp=1&sender_device=pc"]
 {
-  background-image: url("/Tugas_GIT_MFM/MFM/foto/tiktok.jpg");
+  background-image: url("/MFM/foto/tiktok.jpg");
 }
 
 .icon-link[href*="https://github.com/Fattan-malva"]
 {
-  background-image: url("/Tugas_GIT_MFM/MFM/foto/github-logo.png");
+  background-image: url("/MFM/foto/github-logo.png");
 }
 
 .icon-link[href*="https://www.instagram.com/kmllxvvn/"]
 {
-  background-image: url("/Tugas_GIT_MFM/MFM/foto/instagram.jpg");
+  background-image: url("/MFM/foto/instagram.jpg");
 }
 
 .icon-link[href*="https://wa.me/6285536724645"]
 {
-  background-image: url("/Tugas_GIT_MFM/MFM/foto/WhatsAppPNG.jpg");
+  background-image: url("/MFM/foto/WhatsAppPNG.jpg");
 }
 
 .icon-link:hover {
